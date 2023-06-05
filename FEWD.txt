@@ -1,0 +1,21 @@
+Programs to prepare for FEWD lab external:
+------------------------------------------
+1. Create your profile page using HTML tags and add contact us form as well.
+2. Create your profile page using HTML tags and add contact us form as well. Add styles to it using internal css.
+3. Create your profile page using HTML tags and add contact us form as well. Add styles to it using external css.
+4. Create your profile page using bootstrap and add contact us form as well. 
+5. Create a counter application in react using useState Hook.
+6. Develop a react application to read the form elements and log in the console.//
+7. Develop a react application to demonstrate useContext hook.
+8. Develop a react application to find factorial of a given number using useMemo hook.
+10. Develop a react application which pulls data from fake api and render them using axios.
+11. Develop a react application which pulls data from fake api and render them using fetch.
+
+
+
+
+
+
+
+
+9. Develop a react application which has multiple components like Home, Aboutus, Contactus, PageNotFound and link them in Navbar using routing.
